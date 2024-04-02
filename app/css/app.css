@@ -1,0 +1,17 @@
+body{
+    padding: 16px;
+}
+.jumbotron {
+
+  margin: 0 auto;
+}
+.form-control {
+  margin-top: 24px;
+}
+.selecionado {
+  background-color: yellow !important;
+}
+
+.cadastro {
+  width: 90%;
+}
